@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/simpleTodos/static/css/main.31d6cfe0.css",
+    "main.js": "/simpleTodos/static/js/main.e479ee18.js",
+    "index.html": "/simpleTodos/index.html",
+    "main.e479ee18.js.map": "/simpleTodos/static/js/main.e479ee18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.e479ee18.js"
+  ]
+}
